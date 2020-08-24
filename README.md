@@ -2,10 +2,10 @@
 
 ### I'm an Electronic and Digital Artist and Teacher
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on making art.
 - 🌱 I’m currently learning everything.
+
 
 ### Connect with me:
 
