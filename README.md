@@ -1,13 +1,13 @@
-## Hi there, I'm Nic Motta 👋
+## Hola, soy Nic Motta 👋
 
-### I'm an Electronic and Digital Artist and Teacher
-
-
-- 🔭 I’m currently working on making art.
-- 🌱 I’m currently learning everything.
+### Soy Artista Electrónico y Docente:
 
 
-### Connect with me:
+- 🔭 Actualmente estoy produciendo obra e investigando.
+- 🌱 Me gusta aprender de todo un poco.
+
+
+### Contactame:
 
 [<img align="left" alt="Nic Motta" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://nicmotta.github.io/)
 [<img align="left" alt="Nic Motta | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCzcHwERGhtBfxYfLtzDT0nA/videos?view_as=subscriber)
