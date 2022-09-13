@@ -1,11 +1,6 @@
 ## Hola, soy Nic Motta 👋
 
-### Soy Artista Electrónico y Docente:
-
-
-- 🔭 Actualmente estoy produciendo obra e investigando.
-- 🌱 Me gusta aprender de todo un poco.
-
+### Frontend Developer, artista y docente.
 
 ### Contactame:
 
