@@ -1,6 +1,6 @@
-## Hola, soy Nic Motta 👋
+# Nic Motta
 
-### Frontend Developer, artista y docente.
+### Desarrollador Frontend, artista y docente.
 
 ### Contactame:
 
